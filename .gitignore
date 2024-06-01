@@ -1,5 +1,3 @@
-pics/
-csv_files/
 mastodon_access_info.py
 
 # Created by https://www.toptal.com/developers/gitignore/api/python,jupyternotebooks,macos,windows,linux,dotenv,pycharm,visualstudiocode
