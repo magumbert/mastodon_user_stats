@@ -2,6 +2,7 @@
 
 <img src="mastodon_icon.png" alt="Msastodon icon" width="200" height="200" />
 
+*Image licensed under the [GNU Affero General Public License](https://www.gnu.org/licenses/agpl-3.0.html) as published by the Free Software Foundation.*
 
 [Mastodon](https://joinmastodon.org/) is a free and open-source social networking service established in 2016 by Eugen Rochko. It offers microblogging features akin to X (formerly Twitter). Notably, Mastodon experienced a surge in popularity following Elon Musk's acquisition of Twitter, with approximately 2 million users migrating from Twitter to Mastodon. This project aims to delve deeper into Mastodon user statistics to gain insights into user behavior and platform dynamics.
 
